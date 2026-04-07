@@ -6,3 +6,4 @@ Uji coba merge kedua
 =======
 Menambahkan fitur laporan progres proyek.
 main
+Baris ini diubah di branch fitur agar konflik.
