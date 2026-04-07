@@ -5,5 +5,5 @@ fitur-laporan
 Uji coba merge kedua
 =======
 Menambahkan fitur laporan progres proyek.
-main
+main,
 Baris ini diubah di branch fitur agar konflik.
